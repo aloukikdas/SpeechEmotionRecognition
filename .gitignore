@@ -1,0 +1,13 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore zip files
+*.zip
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore other unnecessary files
+.DS_Store
+Thumbs.db
