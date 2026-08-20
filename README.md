@@ -27,4 +27,4 @@ The model was trained using Kaggle's remote GPU server for faster computation. I
 
 ## License
 
-This project is licensed under [MIT License](https://www.google.com/search?q=LICENSE).
+This project is licensed under [MIT License](LICENSE).
