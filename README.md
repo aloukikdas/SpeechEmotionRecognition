@@ -4,6 +4,7 @@ This repository contains an speech emotion detection project. The project includ
 
 ## Research Paper Link - https://ieeexplore.ieee.org/document/11448083
 
+
 ## Overview
 
 We have developed an emotion classification model based on a CNN architecture.
